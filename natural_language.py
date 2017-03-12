@@ -338,10 +338,10 @@ def trainning():
 ##########################################################################################################3
 #读入评论数据
 def start():
-    load('MovieComments2016-09-13_13_29_47.704000.xls')
-    load('du1.xls')
-    load('guo.xls')
-    # load('yang.xls')
+    load('chen.xls')
+    #load('du.xls')
+    #load('guo.xls')
+    #load('yang.xls')
 #读入停用词
     data_stop_word=open('stop_word.txt','r',encoding='utf-8')
 #把停用词读入list
