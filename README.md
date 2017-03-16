@@ -45,4 +45,4 @@ cd your-xlrd-site
 python3 setup.py install
 ```
 ### 运行程序
-用PyCharm导入natural_language.py、tkTest.py并运行后者即可看见结果。
+用PyCharm导入natural_language.py、tkTest.py并运行后者，即可看见结果。
