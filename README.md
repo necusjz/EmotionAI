@@ -22,7 +22,7 @@ sudo pip3 install scipy
 sudo pip3 install scikit-learn
 ```
 ### 安装jieba、xlrd库
-* jieba
+jieba：
 ```
 git clone https://github.com/fxsjy/jieba.git
 ```
@@ -35,8 +35,7 @@ cd your-jieba-site
 ```
 python3 setup.py install
 ```
-* xlrd
-
+xlrd：
 [下载xlrd](https://pypi.python.org/pypi/xlrd)
 ```
 cd your-xlrd-site
@@ -45,4 +44,4 @@ cd your-xlrd-site
 python3 setup.py install
 ```
 ### 运行程序
-用PyCharm导入natural_language.py、tkTest.py并运行后者，即可看见结果。
+用PyCharm导入natural_language.py、tkTest.py并运行后者即可看见结果。
