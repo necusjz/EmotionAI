@@ -36,6 +36,7 @@ cd your-jieba-site
 python3 setup.py install
 ```
 xlrd：
+
 [下载xlrd](https://pypi.python.org/pypi/xlrd)
 ```
 cd your-xlrd-site
