@@ -1,6 +1,4 @@
-# CSA
-关于电影评论的中文情感分析
-## 操作流程
+## How to use
 准备好PyCharm和JDK 1.8
 ### 安装Homebrew
 在终端输入：
