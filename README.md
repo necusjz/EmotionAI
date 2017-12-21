@@ -1,15 +1,15 @@
 ## How to use
-准备好PyCharm和JDK 1.8
-### 安装Homebrew
-在终端输入：
+Prepare PyCharm and JDK 1.8
+### Install Homebrew
+Enter in the terminal:
 ```
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 ```
-### 安装python 3.x
+### Install Python 3.x
 ```
 brew install python3
 ```
-### 安装numpy、scipy、scikit-learn库
+### Install Numpy, SciPy and scikit-learn
 ```
 sudo pip3 install numpy
 ```
@@ -19,7 +19,7 @@ sudo pip3 install scipy
 ```
 sudo pip3 install scikit-learn
 ```
-### 安装jieba、xlrd库
+### Install jieba and xlrd
 jieba：
 ```
 git clone https://github.com/fxsjy/jieba.git
@@ -35,12 +35,12 @@ python3 setup.py install
 ```
 xlrd：
 
-[下载xlrd](https://pypi.python.org/pypi/xlrd)
+[download xlrd](https://pypi.python.org/pypi/xlrd)
 ```
 cd your-xlrd-site
 ```
 ```
 python3 setup.py install
 ```
-### 运行程序
-用PyCharm导入natural_language.py、tkTest.py并运行后者即可看见结果。
+### Run the program
+Use Pycharm to run _natural_language.py_ and _tkTest.py_, you can see the results.
