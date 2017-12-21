@@ -35,7 +35,7 @@ python3 setup.py install
 ```
 xlrd：
 
-[download xlrd](https://pypi.python.org/pypi/xlrd)
+[Download xlrd](https://pypi.python.org/pypi/xlrd)
 ```
 cd your-xlrd-site
 ```
