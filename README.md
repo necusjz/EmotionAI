@@ -1,6 +1,6 @@
-## How to use
+# How to use
 Prepare PyCharm and JDK 1.8
-### Install Homebrew
+## Install Homebrew
 Enter in the terminal:
 ```
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
