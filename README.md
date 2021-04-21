@@ -1,46 +1,21 @@
-# How to use
-Prepare PyCharm and JDK 1.8
-## Install Homebrew
-Enter in the terminal:
-```bash
-$ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-```
-## Install Python 3.x
-```bash
-$ brew install python3
-```
-## Install Numpy, SciPy and scikit-learn
-```bash
-$ sudo pip3 install numpy
-```
-```bash
-$ sudo pip3 install scipy
-```
-```bash
-$ sudo pip3 install scikit-learn
-```
-## Install jieba and xlrd
-jieba：
-```bash
-$ git clone https://github.com/fxsjy/jieba.git
-```
-```bash
-$ git checkout jieba3k
-```
-```bash
-$ cd your-jieba-site
-```
-```bash
-$ python3 setup.py install
-```
-xlrd：
+# Emotion AI
+Sentiment analysis of movie reviews based on machine learning.
 
-[Download xlrd](https://pypi.python.org/pypi/xlrd)
-```bash
-$ cd your-xlrd-site
+## Installation
 ```
-```bash
-$ python3 setup.py install
+$ pip install -r requirements.txt
 ```
-## Run the program
-Use Pycharm to run _natural_language.py_ and _tkTest.py_, you can see the results.
+
+## Usage
+```
+$ ./src/tkTest.py
+```
+
+Execute this command, we'll see the pop-up window like this:
+![](https://raw.githubusercontent.com/necusjz/p/master/EmotionAI/sa_10.png)
+
+## Contributing
+We love contributions! Before submitting a Pull Request, it's always good to start with a new issue first.
+
+## License
+This repository is licensed under Apache 2.0. Full license text is available in [LICENSE](https://github.com/necusjz/EmotionAI/blob/master/LICENSE).
