@@ -1,5 +1,5 @@
 # Emotion AI
-Sentiment analysis of movie reviews based on machine learning.
+Sentiment analysis of movie reviews with artificial intelligence.
 
 ## Installation
 ```
